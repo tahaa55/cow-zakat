@@ -1,0 +1,38 @@
+body{
+    background-color: darkorange;
+    background-position: center;
+    font-style: oblique;
+    display: grid;
+    place-items: center;
+    text-align: center;
+}
+div{
+    margin-top: 170px;
+    background-color: white;
+    border-radius: 10px;
+    border: solid 3px;
+    padding: 20px;
+}
+input{
+    border-radius: 10px;
+    border: solid 3px;
+    text-align: center;
+    font-style: oblique;
+    margin-top: 20px;
+    font-size: 30px;
+    
+}
+button{
+    font-size: 20px;
+    margin-top: 25px;
+    border-radius: 10px;
+    border: solid 3px;
+    text-align: center;
+   
+
+}
+h1{
+    font-size: 60px;
+    font-style: oblique;
+    font-weight: 700;
+}
